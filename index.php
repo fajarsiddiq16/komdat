@@ -26,7 +26,7 @@
     <input type-"checkbox" checked-"checked"><span>Ingat Saya</span>
     </div>
     
-    <div class-"container" style-"background-color:#flflfl">
+    <div class-"container" style-"background-color:#f1f1f1">
       <button type-"button" class-"cancelbtn">Batal</button>
       <span class-"psw">Lupa <a href-"#">password?</a></span>
     </div>
