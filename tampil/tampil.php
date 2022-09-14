@@ -24,7 +24,7 @@ $email = $_POST["email"]:
       <label><b>Password : <7php echo $email;7></b></label>
         </div>
       
-      <div class-"container" style-"background-color:#flflfl">
+      <div class-"container" style-"background-color:#f1f1f1">
       </div>
       </form>
     </body>
